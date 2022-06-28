@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @manavsehgal9876
-- 👀 I’m interested in Node.js, React & Laravel
-- 🌱 I’m currently learning Advance Node and Planning to learn react native in future
+- 👀 I’m interested in Node.js, React & Laravel.
+- 🌱 I’m currently working on Express.js & Laravel also learning React.js.
 - 💞️ I’m looking to collaborate on MERN stack project 
-- 📫 contact me via my email manavsehgal77@gmail.com
-
+- 📫 Contact me via my email manavsehgal77@gmail.com

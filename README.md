@@ -4,4 +4,6 @@
 - 🌱 I’m currently working on Express.js, React.js & Laravel. Also learning Software Design and Architecture.
 - 💞️ I’m looking to collaborate on MERN stack project 
 - 📫 Contact me via my email manavsehgal77@gmail.com
-[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavsehgal9876)](https://github.com/manavsehgal9876/github-readme-stats)
+
+
+[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavsehgal9876)](https://github.com/manavsehgal9876/github-readme-stats)\

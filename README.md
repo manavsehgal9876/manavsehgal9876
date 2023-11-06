@@ -6,4 +6,4 @@
 - 📫 Contact me via my email manavsehgal77@gmail.com
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavsehgal9876&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavsehgal9876&langs_count=8)

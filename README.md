@@ -6,4 +6,4 @@
 - 📫 Contact me via my email manavsehgal77@gmail.com
 
 
-[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavsehgal9876)](https://github.com/manavsehgal9876/github-readme-stats)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavsehgal9876&layout=compact)

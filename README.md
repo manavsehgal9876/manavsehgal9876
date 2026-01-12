@@ -98,34 +98,6 @@ I specialize in **integrating Artificial Intelligence into real-world web applic
 
 ---
 
-## 📊 GitHub Stats (Dark / Light Friendly)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manavsehgal9876&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavsehgal9876&theme=transparent" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavsehgal9876&layout=compact&theme=transparent" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manavsehgal9876&theme=github-compact" />
-</p>
-
----
-
 ## 🛠️ Tools & Technologies
 
 <p align="center">
